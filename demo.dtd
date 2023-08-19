@@ -3,7 +3,7 @@
 <!ELEMENT products(name,price,category,availablity)>
 <!ELEMENT name(#PCDATA)>
 <!ELEMENT price(#PCDATA)>
-<!ELEMENT catrgory(#PCDATA)>
+<!ELEMENT category(#PCDATA)>
 <!ELEMENT Quantity(#PCDATA)>
 <!ELEMENT products pid ID #REQUIRED>
 <!ELEMENT Lang(c|cobol|java) "java">
