@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8?">
+<product>
+<products pid="1" lang="java">
+    <name> godrej cool </name>
+    <price> $55 </price>
+    <category> electronics </category>
+    <Quantity> 2 </Quantity>
+</products>
+<products pid="2" lang="java">
+    <name> us polo</name>
+    <price> $14</price>
+    <category> clothing </category>
+    <Quantity> 10 </Quantity>
+</products>
+<products pid="3" lang="java">
+    <name> red tape</name>
+    <price> $12</price>
+    <category> clothing</category>
+    <Quantity> 4 </Quantity>
+</products>
+<products pid="4" lang="java">
+    <name> adventures of omanakuttan</name>
+    <price> $43</price>
+    <category> book </category>
+    <Quantity> 8 </Quantity>
+</products>
+</product>
