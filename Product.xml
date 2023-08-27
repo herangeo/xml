@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="product1.dtd" type="application/xml "schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="productxsl.xsl" type="text/xsl"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Laptop</name>
+        <price>999.99</price>
+        <description>Powerful laptop with great features.</description>
+    </product>
+    <product>
+        <id>2</id>
+        <name>smart phone</name>
+        <price>99.99</price>
+        <description>Powerful smart phone with great features.</description>
+    </product>
+    <product>
+        <id>3</id>
+        <name>tablet</name>
+        <price>199.99</price>
+        <description>feel the power.</description>
+    </product>
+    <product>
+        <id>4</id>
+        <name>watch</name>
+        <price>9.99</price>
+        <description>watch it!.</description>
+    </product>
+    <product>
+        <id>5</id>
+        <name>Tv</name>
+        <price>99.99</price>
+        <description>feel the reality!.</description>
+    </product>
+</products>
